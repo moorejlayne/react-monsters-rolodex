@@ -1,3 +1,5 @@
+This project is a simple "Monster Rolodex" created using React. From the [Complete React Developer in 2020](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) Udemy course. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
